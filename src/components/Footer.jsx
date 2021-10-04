@@ -13,16 +13,8 @@ const Footer = () => {
         href="https://github.com/anglesvar"
         aria-label="My GitHub"
       >
-        Anglesvar Chandrasekar Appiya
+        Rishi kesh Ravi sankar Thumati
       </a>{" "}
-      using <i className="fab fa-react"></i>
-      <p>
-        <small className="text-muted">
-          {" "}
-          This is an open-source project. You can fork it and make your own
-          version.
-        </small>
-      </p>
     </footer>
   );
 };
