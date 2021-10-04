@@ -2,44 +2,38 @@
     "backgroundType": "gradient",
     "plainBackgroundMode": "daylight",
     "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
-    "FirstName": "Anglesvar",
-    "MiddleName": "Chandrasekar",
-    "LastName": "Appiya",
-    "devDesc": "| Engineer | Programmer | Full Stack Developer  ",
+    "FirstName": "Rishi Kesh",
+    "MiddleName": "Ravi sankar",
+    "LastName": "Thumati",
+    "devDesc": "| Engineer | Programmer | Front-End Developer  ",
     "icons": [{
             "id": 0,
             "image": "fa-github",
-            "url": "https://github.com/anglesvar",
+            "url": "https://github.com/rishi376",
             "style": "socialicons"
         },
         {
             "id": 1,
-            "image": "fa-facebook",
-            "url": "https://www.facebook.com/anglesvar.cheenu",
+            "image": "fa-instagram",
+            "url": "https://www.instagram.com/___rishi_",
             "style": "socialicons"
         },
         {
             "id": 2,
-            "image": "fa-instagram",
-            "url": "https://www.instagram.com/anglesvar",
-            "style": "socialicons"
-        },
-        {
-            "id": 3,
             "image": "fa-linkedin",
-            "url": "https://www.linkedin.com/in/anglesvar-chandrasekar-appiya-24338a110/",
+            "url": "https://www.linkedin.com/in/rishi-kesh-thumati-416a2020b/",
             "style": "socialicons"
         }
     ],
     "aboutHeading": "About Me",
-    "aboutDescription": "I'm Anglesvar Chandrasekar Appiya, a B.Tech Graduate from India. I'm a Developer with 2+ years of experience in Web Application development. I’m a Software Engineer at Chubb India. I'm always in hunger for new inspiring technologies.❤",
+    "aboutDescription": "I'm Rishi kesh Ravi sankar Thumati, currently persuing my bachelor's degree. I'm always in hunger for new inspiring technologies.❤",
     "projectHeading": "My Works",
     "gitHubLink": "https://api.github.com/users/",
-    "gitHubUsername": "anglesvar",
+    "gitHubUsername": "rishi376",
     "gitHubQuerry": "/repos?sort=created&direction=desc",
     "projectsLength": 4,
     "showNavigationbar": true,
-    "resumeLink": "https://angle-personal.s3.ap-south-1.amazonaws.com/ANGLESVAR's+Resume.pdf",
-    "mobileNumber": "9994578216",
-    "emailId": "anglesvar.cheenu98@gmail.com"
+    "resumeLink": "https://drive.google.com/file/d/1S-WTT30d8mitWZ7-_V0_uo5xUP4NPxFu/view?usp=sharing",
+    "mobileNumber": "9791366526",
+    "emailId": "rishithumati@gmail.com"
 }
