@@ -10,7 +10,7 @@ const Footer = () => {
       <a
         className="badge badge-dark"
         rel="noopener"
-        href="https://github.com/anglesvar"
+        href="https://github.com/rishi376"
         aria-label="My GitHub"
       >
         Rishi kesh Ravi sankar Thumati
